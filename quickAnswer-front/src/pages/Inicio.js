@@ -10,7 +10,7 @@ function Inicio() {
     return (
         <>
             <Navbar />
-            <Cabecalho titulo="Bem vindo ao QuickAnswer"/>
+            <Cabecalho titulo="Bem vindoo ao QuickAnswer"/>
    
             <div className="carouselInicio">
                 <Carousel variant="dark">
