@@ -1,0 +1,27 @@
+.bodyConversa {
+  display: flex;
+}
+
+.listaConversas,
+.bodyChat {
+  background-color: #d1cbb5;
+  border-radius: 15px;
+  margin-left: 20%;
+  max-width: 50%;
+  height: 100%;
+  padding: 1% 1% 1% 1%;
+}
+
+.bodyChat{
+  margin-left: 5%;
+  width: 50%;
+}
+
+.formConversa {
+  margin-top: 10%;
+  display: flex;
+}
+
+.btnChat {
+  margin-left: 0.5vw;
+}

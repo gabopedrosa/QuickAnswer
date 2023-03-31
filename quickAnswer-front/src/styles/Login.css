@@ -1,0 +1,18 @@
+.sectionLogin{
+    height: 70%;
+    width: 25vw;
+    margin:8% auto;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.logoLogin{
+    width: 12vw;
+}
+
+.formLogin{
+    padding:0px 10% 10% 10%;
+    text-align: center;
+
+}
